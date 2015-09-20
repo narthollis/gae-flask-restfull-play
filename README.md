@@ -1,0 +1,2 @@
+This is a simple play project for working with [Google AppEngine](https://cloud.google.com/appengine/), 
+[flask](http://flask.readthedocs.org/), and [flask-restful](https://flask-restful.readthedocs.org/)
